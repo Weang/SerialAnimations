@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SerialAnimations_Example' do
+  pod 'SerialAnimations', :path => '../'
+
+  target 'SerialAnimations_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - SerialAnimations (0.1.0)
+
+DEPENDENCIES:
+  - SerialAnimations (from `../`)
+
+EXTERNAL SOURCES:
+  SerialAnimations:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SerialAnimations: a2ed0d1bcb7e5c761ec4c79faa89a88f754bf80b
+
+PODFILE CHECKSUM: f9f8bee9c68bcb29c9e5efffd9848881a5a7d775
+
+COCOAPODS: 1.7.0

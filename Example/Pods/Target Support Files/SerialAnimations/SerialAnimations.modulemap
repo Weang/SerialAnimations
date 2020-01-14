@@ -1,0 +1,6 @@
+framework module SerialAnimations {
+  umbrella header "SerialAnimations-umbrella.h"
+
+  export *
+  module * { export * }
+}

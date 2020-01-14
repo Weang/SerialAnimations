@@ -1,0 +1,6 @@
+framework module Pods_SerialAnimations_Tests {
+  umbrella header "Pods-SerialAnimations_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
